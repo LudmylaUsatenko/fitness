@@ -12,6 +12,8 @@ $(document).ready(function() {
         dots: true,
         slidesToShow: 2,
         slidesToScroll: 2,
+        autoplay: true,
+        autoplaySpeed: 3000,
         responsive: [
             {
               breakpoint: 768,
@@ -30,6 +32,8 @@ $(document).ready(function() {
         dots: true,
         slidesToShow: 2,
         slidesToScroll: 2,
+        autoplay: true,
+        autoplaySpeed: 3000,
         responsive: [
           {
             breakpoint: 650,

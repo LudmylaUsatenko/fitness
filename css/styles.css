@@ -268,7 +268,7 @@ img {
 }
 
 .menu li {
-    margin-right: 30px;
+    margin-right: 35px;
 }
 
 .menu li:last-child {
@@ -322,7 +322,7 @@ img {
     }
 
     .menu li {
-        margin-right: 15px;
+        margin-right: 25px;
     }
 
     .header-logo {
@@ -1555,7 +1555,7 @@ img {
     color: #FFFFFF;
     background: transparent;
     position: absolute;
-    top: 0;
+    top: -2px;
     right: 0;
     padding: 0;
     cursor: pointer;
@@ -1645,6 +1645,10 @@ img {
     .subscribe-form {
         width: 100%;
         padding-left: 0px;
+    }
+
+    .subscribe-input {
+        padding: 0 0 15px;
     }
 }
 
